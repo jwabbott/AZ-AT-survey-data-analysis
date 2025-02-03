@@ -1,0 +1,11 @@
+Will all team members commit to the same branch?
+-We hope to be supportive collaborators whenever possible and help each other in case challenges are accomplishing a task, but using the same branch runs the risk of accidental overwrites of code, something that should be avoided whenever possible, so using a Feature-Branch workflow will likely be a bit more resilient.
+
+Will each team member have their own branch?
+-From researching the differences in Feature-Branch vs. Shared Branch structures, the best practice suggests that we use our own, before merging them into a main branch.
+
+Will you use pull requests?
+-Yes, again, based on best practices, these pull requests will allow for us to review each other's work and ensure they are ready to be merged with the main branch before possibly overwriting a section of code.
+
+When do you merge branches if you do?
+-We should do this as needed, but only after we review, test and address any bugs. I don't think that there are too many parts of the project that build on each other, so this merging might be possible to put off until the later stages of the project (but we will have to test this early enough that we can address bugs).
