@@ -9,3 +9,27 @@ Will you use pull requests?
 
 When do you merge branches if you do?
 -We should do this as needed, but only after we review, test and address any bugs. I don't think that there are too many parts of the project that build on each other, so this merging might be possible to put off until the later stages of the project (but we will have to test this early enough that we can address bugs).
+
+
+
+Edits 09 Feb. 2025: Brabnching Ideas?
+
+As we build out the collection of files and documents in the repo, I am thinking of ways to keep them organized, here are a few categories that we might use, and the files that might fall under them.
+
+-**Documentation**
+--Branching Document (this one)
+--Survey Questions Included (added 09 Feb)
+--
+-**Project Management**
+--Communication Plan and Anticipated Challenges
+--Progress Updates
+
+-**Working Files**
+--AZ-Survey-Analysis-Code.ipynb
+--Easy to Follow Version of Survey Stats (1) (Will be replaced with re-scaled version)
+
+
+-Other
+--.gitignore
+--requirements.txt
+--README.md
