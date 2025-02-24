@@ -22,29 +22,5 @@ After users choose a starting variable, they can choose a “similarity threshol
 
 -Jupyter Notebook with Analysis of Crisis Categories COMING SOON: This notebook will demonstrate a similar exploration as the above notebook, but looking specifically at the categorical crisis responses that individuals gave. The comparative variables might change here as well, instead of looking at Gender and Voting history as predictors, we might look at income or education levels.
 
-
-
-—Installation—
-	Prerequesites:
-	-Python Version 3.7+
-	-Install Packages: 
-pip install pandas numpy networkx scikit-learn matplotlib plotly
-
-
-
-—Usage—
-After familiarizing yourself with the data and format of the CSV files, choose a Jupyter Notebook to explore:
--Explore the network visualizations based on Gender or Voting history, and change the threshold to see different network densities to emerge. Theis JN is designed to be interactive, based on the Plotly visualization features, and individual nodes can be examined and identified in relation to specific others in the network. ***NOTE*** This JN is still in development, there are features that are not yet perfectly implemented, including that the nodes are ID in the order they appear in the CSV rows, rather than the ID number that they were assigned for the survey. This should still be fixed before the final submission. 
-
-
--
-
 —Reporting Issues—
 -Please feel free to contribute observed issues in data or code through the pull request feature. This is also a channel to communicate ideas for future features and functionality that might enhance this work.
-
-
-—Contributions—
--In Progress
-
-License
--In Progress
