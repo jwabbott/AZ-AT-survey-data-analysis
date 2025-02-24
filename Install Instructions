@@ -1,6 +1,0 @@
-—Installation—
-	Prerequesites:
-	-Python Version 3.7+
-	-Install Packages: 
-pip install pandas numpy networkx scikit-learn matplotlib plotly
-
