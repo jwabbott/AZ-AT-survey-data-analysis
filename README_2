@@ -1,6 +1,7 @@
 
 —Overview—
--This GitHub Site hosts data from a survey, conducted of Arizona and Austrian citizens, shortly after the 2022 midterm cycles of the national elections. The survey gathered socio-economic, behavioral and insights about respondents, as well as data from more complex composite scales. 
+-This GitHub Site hosts data from a survey, conducted of Arizona and Austrian citizens, shortly after the 2022 midterm cycles of the national elections. The survey gathered socio-economic, behavioral and insights about respondents, as well as data from more complex composite scales.
+This GH repo was created as part of the CAS502 course at ASU, by Joshua Abbott and Markkus Pfirman Schlosser.
 
 —Features—
 -There are a number of Jupyter Notebooks that can be used to demonstrate various steps in the data cleaning and preparation process, including one that re-scales a number of the composite scores, which were on various scales: 3-21, 0-5, etc. into a 0-1 score, with decimal points re-scaled to make these composite variables more comparable.
