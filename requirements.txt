@@ -2,3 +2,12 @@ pandas==2.2.3
 numpy==2.2.2
 matplotlib==3.10.0
 sklearn==1.6.1
+
+
+As of 23 Feb:
+—Installation—
+	Prerequesites:
+	-Python Version 3.7+
+	-Install Packages: 
+pip install pandas numpy networkx scikit-learn matplotlib plotly
+
