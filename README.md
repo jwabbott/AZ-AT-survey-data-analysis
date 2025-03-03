@@ -1,5 +1,5 @@
 # AZ-AT-survey-data-analysis
-An Analysis of Social and Political Survey Data from Arizona and Austria in 2023
+An Analysis of Social and Political Survey Data from Arizona and Austria in 2022
 
 Joshua W. Abbott
 Markkus Pfirman Schlosser
